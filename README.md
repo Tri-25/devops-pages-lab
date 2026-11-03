@@ -1,7 +1,5 @@
 # Hi, I'm Tristan
 
 ## Recent activity
-
-<!--START\_SECTION:activity-->
-
-<!--END\_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
