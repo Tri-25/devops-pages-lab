@@ -1,10 +1,7 @@
-# \# Hi, I'm Tristan
+# Hi, I'm Tristan
 
-# 
+## Recent activity
 
-# \## Recent activity
+<!--START\_SECTION:activity-->
 
-# <!--START\_SECTION:activity-->
-
-# <!--END\_SECTION:activity-->
-
+<!--END\_SECTION:activity-->
